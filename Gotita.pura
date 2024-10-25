@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gotita Pura</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin-top: 50px; }
+        h1 { color: #0099ff; }
+        p { color: #333333; }
+    </style>
+</head>
+<body>
+    <h1>Bienvenidos a Gotita Pura</h1>
+    <p>Tu fuente confiable de agua pura y cristalina.</p>
+    <p>Explora nuestros servicios y productos.</p>
+</body>
+</html>
